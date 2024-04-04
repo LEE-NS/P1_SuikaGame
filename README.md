@@ -1,4 +1,4 @@
-### SUIKA GAME 만들기
+# SUIKA GAME 만들기
 
 ## 사용할 라이브러리
 
